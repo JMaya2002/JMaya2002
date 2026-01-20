@@ -9,7 +9,7 @@ Specializing in modern, scalable web applications with focus on performance opti
 ## 🛠️ Technical Stack
 
 ### Frontend Development
-<div align="center">
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
@@ -17,7 +17,7 @@ Specializing in modern, scalable web applications with focus on performance opti
 ![Shadcn/ui](https://img.shields.io/badge/-Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-</div>
+
 React, Next.js (SSR/SSG), Astro for static sites • Tailwind CSS, Shadcn/ui, Vuetify • GSAP animations • Core Web Vitals optimization • SEO implementation
 
 ### Backend Development
