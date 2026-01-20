@@ -109,9 +109,9 @@ const myPrinciples = {
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JMaya2002&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JMaya2002&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
 ---
 
@@ -119,10 +119,8 @@ const myPrinciples = {
 
 I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/TU_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TU_PERFIL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/JMaya2002)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelmayacastillo123@gmail.com)
 
 ---
 
@@ -132,6 +130,6 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 *Available for freelance projects and collaborations*
 
-⭐️ From [TU_USERNAME](https://github.com/TU_USERNAME)
+⭐️ From [TU_USERNAME](https://github.com/JMaya2002)
 
 </div>
