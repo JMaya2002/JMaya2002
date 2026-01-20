@@ -62,11 +62,11 @@ Full-stack applications with React/Next.js frontends and Node.js/Python backends
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JMaya2002&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
-Explore my repositories to see clean, well-structured code with comprehensive documentation and comments.
-
 ---
 
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/JMaya2002)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelmayacastillo123@gmail.com)
+
+---
