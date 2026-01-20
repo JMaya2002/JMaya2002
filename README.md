@@ -79,8 +79,3 @@ Open to freelance projects and collaboration opportunities.
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelmayacastillo123@gmail.com)
 
 ---
-
-
-
-**Available for freelance projects and collaborations**
-
