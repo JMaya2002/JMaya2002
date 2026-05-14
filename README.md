@@ -34,12 +34,6 @@ SaaS platform for workforce management — clock-in with geolocation, shift plan
  
 ---
  
-## 📊 GitHub Stats
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JMaya2002&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JMaya2002&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
- 
----
  
 ## 📫 Contact
  
