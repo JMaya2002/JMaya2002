@@ -27,7 +27,7 @@ Full-stack developer focused on building web applications with clean, well-struc
  
 ## 💼 Projects
  
-### Gate_Force
+### Gate Force
 SaaS platform for workforce management, clock-in with geolocation, shift planning, AI emotion scanner, incident management and real-time internal chat.  
 🔗 [GitHub](https://github.com/4GeeksAcademy/Gate_Force-sp-131)
  
