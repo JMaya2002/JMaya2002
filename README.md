@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joel
 **Fullstack Developer | Barcelona, Spain 🇪🇸**
  
-Full-stack developer focused on building web applications with clean, well-structured code. Comfortable working across the whole stack — from UI to database.
+Full-stack developer focused on building web applications with clean, well-structured code. Comfortable working across the whole stack, from UI to database.
  
 ---
  
@@ -28,8 +28,7 @@ Full-stack developer focused on building web applications with clean, well-struc
 ## 💼 Projects
  
 ### Gate_Force
-SaaS platform for workforce management — clock-in with geolocation, shift planning, incident management and real-time internal chat.  
-`React` `Vite` `Python` `Flask` `SQLAlchemy` `JWT` `REST API`  
+SaaS platform for workforce management, clock-in with geolocation, shift planning, AI emotion scanner, incident management and real-time internal chat.  
 🔗 [GitHub](https://github.com/4GeeksAcademy/Gate_Force-sp-131)
  
 ---
